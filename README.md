@@ -1,6 +1,3 @@
-Here's the complete README in markdown format with all sections properly formatted:
-
-```markdown
 # Underwater Image Enhancement using Sea-Thru Algorithm
 
 ![Sample Input](input.png) | ![Enhanced Output](output.png)
